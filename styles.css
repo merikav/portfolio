@@ -164,7 +164,7 @@ body {
 
 .contact-elements-wrapper {
 	display: flex;
-	margin-right: 50%;
+	margin-right: 45%;
 	justify-content: space-between;
 }
 
@@ -194,6 +194,9 @@ i {
 	color:#D44638;
 }
 
+.fa-file-alt:hover {
+	color:white;
+}
 
 
 
